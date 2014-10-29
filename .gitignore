@@ -1,5 +1,6 @@
 #Custom
 output/
-plugins/
-themes/
 *.pid
+
+#Python
+*.py[cod]
