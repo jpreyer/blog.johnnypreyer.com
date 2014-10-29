@@ -1,6 +1,6 @@
 #Custom
 output/
-cache/
+cache/*
 *.pid
 
 #Python
