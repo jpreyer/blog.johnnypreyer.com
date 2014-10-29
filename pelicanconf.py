@@ -17,7 +17,7 @@ FEED_ALL_ATOM = None
 CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 THEME = '/home/jpreyer/Projects/pelican-bootstrap3/'
-BOTOSTRAP_THEME = 'spacelab'
+BOOTSTRAP_THEME = 'spacelab'
 
 # Blogroll
 #LINKS = (('Pelican', 'http://getpelican.com/'),
