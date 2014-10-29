@@ -8,7 +8,8 @@ SITEURL = ''
 
 PATH = 'content'
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'America/New_York'
+DEFAULT_DATE_FORMAT = '%a %d %B %Y'
 
 DEFAULT_LANG = u'en'
 
