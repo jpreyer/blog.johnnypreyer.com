@@ -27,10 +27,10 @@ BOOTSTRAP_THEME = 'slate'
 #         ('You can modify those links in your config file', '#'),)
 
 # Social widget
-#SOCIAL = (('You can add links in your config file', '#'),
-#          ('Another social link', '#'),)
+SOCIAL = (('Github', 'https://github.com/jpreyer'),
+          ('Linkedin', 'https://linkedin.com/in/jpreyer'),)
 
-#DEFAULT_PAGINATION = 10
+DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
